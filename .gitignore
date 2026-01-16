@@ -1,0 +1,6 @@
+/.cache
+/build
+/app/build
+.env
+.env.*
+/venv
