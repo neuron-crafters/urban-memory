@@ -1,0 +1,21 @@
+1. create a folder and open vs code
+    > code .
+
+2. Open Terminal in vs code and select cmd/powershell 
+    > conda create -p venv python==3.13
+    > conda activate venv/
+    > pip install ipykernel (This is for jupyter notebook)
+
+3. create requirements.txt file
+    - add pydantic
+
+4. Install all requirements
+    - pip install -r requirements.txt
+
+
+5. Create accounts and apikey
+    - https://console.groq.com
+    - https://platform.openai.com/docs/overview
+    - https://smith.langchain.com
+
+6.
